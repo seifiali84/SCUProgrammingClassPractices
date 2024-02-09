@@ -20,5 +20,9 @@ int main()
         cout << "\n";
     }
 
+    // in just one line :
+    cout << "\nin just one line : \n";
+    cout << "****\n***\n***\n**\n*\n";
+    
     return 0;
 }
